@@ -9,6 +9,10 @@ body {
   background-color: var(--off-black);
   font-family: "Inter", sans-serif;
   color: var(--white);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 main {
   display: flex;
